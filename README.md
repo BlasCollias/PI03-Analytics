@@ -4,14 +4,15 @@
 
 # Proyecto Individual Data Analytics: Blas Collias.
 
+[![sss.jpg](https://i.postimg.cc/8kfZV8sR/sss.jpg)](https://postimg.cc/4nZ6zS6y)
 
 
 ***
-# Telecomunicaciones Enacom
+# **Telecomunicaciones Enacom**
 Metrics decidió tomar este trabajo como una oportunidad, para ayudar al ente Enacom a entender el comportamiento de este sector a nivel nacional, a seguir expandiendo sus redes de acceso a Internet, ampliar su perspectiva para tomar mejores decisiones y obtener una mejora en la calidad de sus servicios. Esto lo hicimos mediante un trabajo de Data Analytics que permitió convertir datos en información relevante para la empresa.
 
 
-![Logo Empresa](/Imagenes/decad2a8542574370f0b59bba7d5fddf.webp)
+[![enacom.jpg](https://i.postimg.cc/KY55JFqb/enacom.jpg)](https://postimg.cc/5H6vtcWK)
 
 
 ## Objetivos 
@@ -44,7 +45,7 @@ Variacion porcentual Velocidad = (Diferencia Velocidad media con Trimestre anter
 
 Variacion porcentual Ingresos = (Diferencia Ingresos con Trimestre anterior) / Ingresos trimestre anterior
 
-Tasa de relación velocidad/velocidad = Variacion porcentual Ingresos / Variacion porcentual Velocidad 
+**Tasa de relación velocidad/velocidad = Variacion porcentual Ingresos / Variacion porcentual Velocidad**
 
 Ejemplo: tasa = 0.5 --> Indica que cada X% de aumento en la velocidad, los ingresos van a aumentar en la mitad de ese X%. Aumenta la velocidad en 20%, los ingresos van a aumentar en un 10%
 
@@ -71,7 +72,6 @@ Trabajamos con las bases de datos brindadas, y a través del Análisis de Datos 
 - Mayor eficiencia y optimización en el manejo de sus recursos.
 - Facilitar y mejorar la toma de decisiones, a través de esta nueva perspectiva obtenida por la información que les brindamos.
 - Mejora de la imagen corporativa, mediante el cumplimiento de los objetivos propuestos que se ayudó a agrandar la cantidad de clientes y tener un servicio  de mayor calidad que ofrecer.
-
 
 
 
