@@ -26,6 +26,7 @@ Evaluar el aumento o disminución de la variación porcentual trimestral del acc
 Observaciones:
 
 -El uso del internet y el acceso al mismo es cada vez más indispensable, por lo tanto viene en creciente todos estos años. En el 2do trimestre de 2020, a causa de la pandemia, tuvo la mayor variación porcentual esta variable(Acceso cada 100 hogares) porque rubros como educación/trabajo tuvieron que adaptarse trabajando/estudiando desde casa.
+
 -Provincias de poco acceso al 2022(Formosa/Chaco), por lo tanto decidimos recomendar algunas localidades en donde se pueda reforzar el acceso al internet, para expander los servicios y ademas para ayudar en lo social para casos como la pandemia, donde se necesitó del acceso a Internet para no perder educación.
 
 ### **- 2)Fidelización de clientes:**
@@ -38,6 +39,7 @@ KPI: va a indicar las provincias con la menor tasa de velocidad respecto a su po
 Observaciones:
 
 -Pudimos denotar en la 3er página del dashboard(KPI Velocidad/población) las provincias con la menor tasa que son: Santa Fe, Córdoba y Mendoza.
+
 -La utilización de las tecnologías Fibra Optica y CableModem están creciendo constantemente mientras que la ADSL se está quedando obsoleta.Esto se debe a que las primeras mejoran el rendimiento y abaratan costos, obteniendo una optimización en los recursos de la empresa y el objetivo de mantener a los clientes.
 
 ### **- 3)Incidencia de la velocidad en los ingresos:**
@@ -52,6 +54,7 @@ Ejemplo: tasa = 0.5 --> Indica que cada X% de aumento en la velocidad, los ingre
 Observaciones:
 
 -Clara relación directa entre estas variables. A mayor velocidad, mayor van a ser los ingresos.
+
 -Notamos esto ya que los trimestres con mayor variación en la velocidad, son los mismos que los de mayor variación en los ingresos.
 -En el primer trimestre de cada año es donde más se invierte en velocidad? Ya que en estos se presentan las mayores variaciones en la velocidad y en los ingresos.
 
@@ -79,9 +82,13 @@ Cómo se facilita? Mediante la implementación de tecnologías como la conexión
 
 ## Conclusión 
 Trabajamos con las bases de datos brindadas, y a través del Análisis de Datos y Business Intelligence para ayudar al ente Enacom a conseguir:
+
 - Mayor eficiencia y optimización en el manejo de sus recursos.
+
 - Facilitar y mejorar la toma de decisiones, a través de esta nueva perspectiva obtenida por la información que les brindamos.
-- Generación de insights y recomendaciones.
+
+- Generación de insights y recomendaciones para la empresa.
+
 - Mejora de la imagen corporativa, mediante el cumplimiento de los objetivos propuestos que ayudó a agrandar la cantidad de clientes y tener un servicio  de mayor calidad que ofrecer.
 
 
